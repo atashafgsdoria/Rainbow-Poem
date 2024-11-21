@@ -10,5 +10,6 @@ Violet
 
 Additonal(Edit):
 Sage Green
+Pink
 
 These are the colors of the rainbow.
