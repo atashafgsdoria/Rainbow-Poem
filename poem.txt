@@ -8,4 +8,7 @@ Blue
 Indigo
 Violet
 
+Additonal(Edit):
+Sage Green
+
 These are the colors of the rainbow.
