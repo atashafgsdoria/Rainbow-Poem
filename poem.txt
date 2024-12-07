@@ -13,6 +13,9 @@ Additonal(Edit):
 Sage Green
 Pink
 
+Additonal(Edit):
+Recycle!
+
 These are the colors of the rainbow.
 And the Unicorn.
 Pony
